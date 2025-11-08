@@ -4,7 +4,7 @@ A MERN app demonstrating fine-grained Role-Based Access Control (Admin, Editor, 
 
 ## Folders
 - `rbac-mern-backend` – Express + MongoDB + JWT + RBAC
-- `frontend_rbac_app` – React + React Router (+ Tailwind optional)
+- `frontend_rbac_app` – React + React Router 
 
 ## Quick Start
 
