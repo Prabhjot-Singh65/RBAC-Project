@@ -1,0 +1,23 @@
+# Node / general
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+
+# Env & local configs
+.env
+.env.*.local
+
+# Build outputs
+dist/
+build/
+coverage/
+.DS_Store
+
+# Vite / React cache
+.vite/
+.vscode/
+
+# Docker artifacts
+**/mongo_data/
